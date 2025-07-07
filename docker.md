@@ -183,7 +183,7 @@ services:
 
 **Imtiyaz Nandasaniya**  
 * [GitHub: @imtiyazCode](https://github.com/imtiyazCode)
-* [Instagram: @code.clash](https://instgram.com/code.clash)
+* [Instagram: @code.clash](https://instagram.com/code.clash)
 
 ---
 
