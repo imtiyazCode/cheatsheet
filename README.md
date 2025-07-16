@@ -13,6 +13,7 @@ Each cheatsheet is available as a standalone `.md` file inside this repository, 
 |------------|-------------|
 | [`docker.md`](./docker.md) | Everything you need to manage Docker containers, images, volumes, networks, and more. |
 | [`mongodb.md`](./docker.md) | Learn the most useful MongoDB commands to manage databases, collections, and documents easily. |
+| [`html.md`](./html.md) | A beginner-friendly guide to the most commonly used HTML elements and concepts. |
 
 ---
 
