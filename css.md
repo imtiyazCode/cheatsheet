@@ -251,11 +251,10 @@ clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 
 ## ⚙️ Misc Properties
 ```css
-cursor: pointer;
+cursor: auto | default | pointer | move | text | wait | not-allowed | grab | grabbing;
 opacity: 0.8;
-overflow: hidden | auto | scroll;
-object-fit: cover | contain;
-clip-path: circle(50%);
+overflow: visible | hidden | auto | scroll;
+object-fit: fill | contain | cover | none | scale-down;
 ```
 
 ---
